@@ -19,6 +19,7 @@
   "homepage": "https://github.com/guskimktds/trano_reactjs_lab01#readme",
   "dependencies": {
     "react": "^16.8.1",
+    "react-addons-update": "^15.6.2",
     "react-dom": "^16.8.1"
   },
   "devDependencies": {
