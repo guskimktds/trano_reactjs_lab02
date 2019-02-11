@@ -1,6 +1,6 @@
-# trano_reactjs_lab01
+# trano_reactjs_lab02
 
-Lab 01 : 전화번호부 (이름, 전화번호) 
+Lab 02 : 전화번호부 (이름, 전화번호) CRUD 구현
 
 	1. 구현목적 : React 기본 CRUD 구현, npm 을 통한 라이브러리 설정, git을 통한 소스 관리
 	
@@ -28,8 +28,13 @@ Lab 01 : 전화번호부 (이름, 전화번호)
       webpack.config.js 참고
   
   
-  git clone https://github.com/guskimktds/trano_reactjs_lab01.git 
-  프로젝트를 로컬에 clone 하고 npm run dev-server 를 실행한 후
-  웹브라우저를 띠우고 주소창에 localhost:4000 으로 접속하면 'Hello' 가 표시 되면 정상적인 react 개발환경이 생성된 겁니다.
+  git clone https://github.com/guskimktds/trano_reactjs_lab02.git
   
+  프로젝트를 로컬에 clone 하고 커맨드라인에서 npm istall 실행해서 라이브러리를 다운받고, 
+  
+  npm run dev-server 를 실행해서 웹서버를 띄우고 
+  
+  웹브라우저 주소창에 localhost:4000 으로 접속하면
+  
+  조회,등록,수정,삭제 기능이 추가된 전화번호서비스 application 을 확인(정상완료)
   
